@@ -1,0 +1,2 @@
+# DMXControl
+DMX workshops
